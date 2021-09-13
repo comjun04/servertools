@@ -1,0 +1,15 @@
+{
+  "name": "servertools",
+  "version": "0.1.0",
+  "main": "src/server.js",
+  "repository": "https://github.com/comjun04/servertools",
+  "author": "My Name <comjun04@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@koa/router": "^10.0.0",
+    "ejs": "^3.1.6",
+    "koa": "^2.13.1",
+    "koa-pino-logger": "^3.0.0",
+    "pino": "^6.11.3"
+  }
+}
